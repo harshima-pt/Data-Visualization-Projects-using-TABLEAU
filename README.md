@@ -4,6 +4,9 @@
 ### Purpose:
 
 The following serves as a directory of links of interactive and modern dashboards using Tableau.
+
+[Click here to view all TABLEAU dashboards](https://public.tableau.com/app/profile/fathimathul.harshima.p.t)
+
 | Italic             |  Block letters |
 :-------------------------:|:-------------------------:
 ![Netflix_data analysis-dashboard.png](https://drive.google.com/uc?export=view&id=1L61bLSUwAWh9iLv41t4ZzwSnAxzqeq1s) |  [Click here to view the dashboard](https://public.tableau.com/app/profile/fathimathul.harshima.p.t/viz/NeflixDataAnalysis/Dashboard1)
