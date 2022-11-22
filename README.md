@@ -4,6 +4,7 @@
 ### Purpose:
 
 The following serves as a directory of links of interactive and modern dashboards using Tableau.
+##  Note: Please refresh page if images are not loaded!
 
 [Click here to view all TABLEAU dashboards](https://public.tableau.com/app/profile/fathimathul.harshima.p.t)
 
